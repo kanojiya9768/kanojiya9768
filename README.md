@@ -2,7 +2,7 @@
 - 👨‍💻 React Developer  
 - 🎓 Completed Bachelor Degree in Computer Science
 - 💻 Currently Working as a React Developer in The TheAdroit.
-- 📩 reach me kanojiya9768@gmail.com
+- 📩 Reach me kanojiya9768@gmail.com
 - 📞 Contact Me On 8097859158
 
 <!---
