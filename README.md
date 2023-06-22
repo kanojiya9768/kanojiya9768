@@ -1,7 +1,7 @@
- - 👋 Hi, I’m @kanojiya9768
-- 👀 I’m interested in developing front end website
-- 🌱 I’m currently pursuing bsc computer science
-- 💞️ I’m looking to collaborate on web development
+- 👋 Hi, I’m @kanojiya9768
+- 👨‍💻 React Developer  
+- 🌱 Completed Bachelor Degree in Computer Science
+- 💞️ Currently Working as a React Developer in TheAdroit.
 - 📫 reach me kanojiya9768@gmail.com
 
 <!---
