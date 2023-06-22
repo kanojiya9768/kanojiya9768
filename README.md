@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kanojiya9768
+- 👋 Hi, I’m Vishal Kanojiya.
 - 👨‍💻 React Developer  
 - 🎓 Completed Bachelor Degree in Computer Science
 - 💻 Currently Working as a React Developer in TheAdroit.
