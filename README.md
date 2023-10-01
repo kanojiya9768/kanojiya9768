@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Vishal Kanojiya.<br>👨‍💻 React/Next-js Developer<br>🎓 Completed Bachelor Degree in Computer Science<br>💻 Currently Working as a React/Next-js Developer in Boppo Technology.<br>📩 Reach me kanojiya9768@gmail.com<br>📞 Contact Me On 8097859158<br>🌱 I have a Soft Corner for Javascript & React ⚡
+👋 Hi, I’m Vishal Kanojiya.<br>👨‍💻 React/Next-js Developer<br>🎓 Completed Bachelor Degree in Computer Science<br>💻 Currently Working as a Software developer Developer in Boppo Technology.<br>📩 Reach me kanojiya9768@gmail.com<br>📞 Contact Me On 8097859158<br>🌱 I have a Soft Corner for Javascript & React ⚡
 
 
 ## 🌐 Socials:
