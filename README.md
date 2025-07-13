@@ -3,7 +3,11 @@
 
 
 # 💫 Introduction:
-My name is Vishal Kanojiya and I am writing to express my interest in any open React.js Developer positions at your organization. I have 2 years of professional experience in front-end development, with a strong focus on building responsive and dynamic user interfaces using React.js.
+I’m a Front-End Developer with 2+ years of experience building responsive and high-performance web
+applications. I focus on creating clean, scalable UI with strong attention to detail. I also have working
+knowledge of backend tools like Node.js, Express.js, and MongoDB, allowing me to collaborate across the full
+stack. Passionate about clean code and continuous learning.
+
 
 
 ## 🌐 Socials:
